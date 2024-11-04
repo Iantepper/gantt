@@ -23,7 +23,7 @@ gantt
     Organizar diccionario de datos  :task5, after task1, 49d
     Realizar prototipo de salida    :task6, 2024-06-12, 14d
     Realizar diseño de salida       :task7, after task6, 63d
-    Escribir casos de uso           :task8, 2024-06-12, 70d
+    Escribir casos de uso           :task8, 2024-11-04, 70d
     Diseñar base de datos           :task9, after task5 task7 task8, 56d
 
 
