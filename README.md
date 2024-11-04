@@ -11,7 +11,7 @@
 | Escribir casos de uso         | 70 días  | 2024-11-04 08:00 | 2025-01-12 17:00 | -            |
 | Diseñar base de datos         | 56 días  | 2025-01-28 08:00 | 2025-03-25 17:00 | 5; 7; 8      |
 
-```mermaid
+
 gantt
     title Proyecto de Desarrollo
     dateFormat  YYYY-MM-DD
@@ -25,4 +25,5 @@ gantt
     Realizar diseño de salida       :task7, after task6, 63d
     Escribir casos de uso           :task8, 2024-11-04, 70d
     Diseñar base de datos           :task9, after task5, after task7, after task8, 56d
+
 
