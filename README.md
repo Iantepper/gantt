@@ -1,4 +1,4 @@
-# gantt ej 4
+# gantt ej 3
 | Nombre                        | Duración | Inicio           | Terminado       | Predecesores |
 |-------------------------------|----------|------------------|-----------------|--------------|
 | Dibujar el flujo de datos     | 35 días  | 2024-11-04 08:00 | 2024-12-09 17:00 | -            |
