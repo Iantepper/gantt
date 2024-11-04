@@ -16,7 +16,7 @@ gantt
     title Proyecto de Desarrollo
     dateFormat  YYYY-MM-DD
     section Planificación
-    Dibujar el flujo de datos       :task1, 2024-01-01, 35d
+    Dibujar el flujo de datos       :task1, 2024-11-04, 35d
     Dibujar árbol de decisiones     :task2, after task1, 28d
     Revisar árbol                   :task3, after task2, 70d
     Escribir proyecto               :task4, after task3, 28d
