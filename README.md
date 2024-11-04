@@ -17,12 +17,14 @@ gantt
     dateFormat  YYYY-MM-DD
     axisFormat  %d/%m/%Y
     section Generación de Informes
-    A- Dibujar el flujo de datos       :task1, 2024-01-01, 35d
-    B- Dibujar árbol de decisiones     :task2, after task1, 28d
-    C- Organizar diccionario de datos  :task5, after task1, 49d
-    D- Realizar prototipo de salida    :task6, 2024-01-01, 14d
-    E- Escribir casos de uso           :task8, 2024-01-01, 70d
-    F- Revisar árbol                   :task3, after task2, 70d
-    G- Escribir proyecto               :task4, after task3, 28d
-    H- Realizar diseño de salida       :task7, after task6, 63d
-    I- Diseñar base de datos           :task9, after task5, after task7, after task8, 56d
+    A. Dibujar el flujo de datos       :task1, 2024-01-01, 35d
+    B. Dibujar árbol de decisiones     :task2, after task1, 28d
+    C. Organizar diccionario de datos  :task5, after task1, 49d
+    D. Realizar prototipo de salida    :task6, 2024-01-01, 14d
+    E. Escribir casos de uso           :task8, 2024-01-01, 70d
+    section Revisión y Modificación
+    F. Revisar árbol                   :task3, after task2, 70d
+    G. Escribir proyecto               :task4, after task3, 28d
+    H. Realizar diseño de salida       :task7, after task6, 63d
+    I. Diseñar base de datos           :task9, after task5, after task7, after task8, 56d
+
