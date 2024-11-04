@@ -22,7 +22,6 @@ gantt
     C- Organizar diccionario de datos  :task5, after task1, 49d
     D- Realizar prototipo de salida    :task6, 2024-01-01, 14d
     E- Escribir casos de uso           :task8, 2024-01-01, 70d
-    section Revisión y Modificación
     F- Revisar árbol                   :task3, after task2, 70d
     G- Escribir proyecto               :task4, after task3, 28d
     H- Realizar diseño de salida       :task7, after task6, 63d
