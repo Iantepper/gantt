@@ -11,7 +11,7 @@
 | Escribir casos de uso         | 70 días  | 2024-11-04 08:00 | 2025-01-12 17:00 | -            |
 | Diseñar base de datos         | 56 días  | 2025-01-28 08:00 | 2025-03-25 17:00 | 5; 7; 8      |
 
-
+```mermaid
 gantt
     title Proyecto de Desarrollo
     dateFormat  YYYY-MM-DD
