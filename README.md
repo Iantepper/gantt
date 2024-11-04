@@ -17,14 +17,13 @@ gantt
     dateFormat  YYYY-MM-DD
     axisFormat  %d/%m/%Y
     section Planificación
-    Dibujar el flujo de datos       :task1, 2024-11-01, 35d
+    Dibujar el flujo de datos       :task1, 2024-01-01, 35d
     Dibujar árbol de decisiones     :task2, after task1, 28d
     Organizar diccionario de datos  :task5, after task1, 49d
-    Realizar prototipo de salida    :task6, 2024-11-01, 14d
-    Escribir casos de uso           :task8, 2024-11-01, 70d
+    Realizar prototipo de salida    :task6, 2024-01-01, 14d
+    Escribir casos de uso           :task8, 2024-01-01, 70d
     section Revisión y Modificación
     Revisar árbol                   :task3, after task2, 70d
     Escribir proyecto               :task4, after task3, 28d
     Realizar diseño de salida       :task7, after task6, 63d
     Diseñar base de datos           :task9, after task5, after task7, after task8, 56d
-
